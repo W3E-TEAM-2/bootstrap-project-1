@@ -1,0 +1,7 @@
+# bootstrap-project-1
+
+For this project, I worked with pure CSS.
+I used CSS grid to achieve the overall layout.
+I achieved responsiveness by using the max-width feature in media queries, adjusting the scrren from the largest to the smallest. I edited the properties to fit each screen size.
+For the mobile view, I used the grid-span property to put every page feature in one column, to ensure a good user experience, and of course, responsiveness.
+I included comments in my code to make my work readable.
