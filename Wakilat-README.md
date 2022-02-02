@@ -1,5 +1,4 @@
 # bootstrap-project-1
-@Wakilat#5463
 Bootstrap and a bit of Pure CSS was used in recreating the project
 The CDN link for Bootstrap CSS, JavaScript and Bootstrap icons were
 copied and placed in the appropriate position in the HTML file
